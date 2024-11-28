@@ -1,0 +1,65 @@
+*{
+    font-family: "Chivo", sans-serif;
+}
+
+header{
+    background-color: #b13756;
+}
+
+header a{
+    color:white;
+}
+
+.nav-item a{
+    color:white;
+}
+
+#boton-perfil{
+    background-color: #81d7cd;
+}
+
+.nav-item a:hover{
+    color: #5b1023;
+}
+
+#app{
+    color: #ba1e4a;
+}
+
+.boton-cv{
+    background-color: #81d7cd;
+    color: #efece2;
+}
+
+.caja-habilidades{
+    background-color: #b13756;
+    color: white;
+}
+
+.btn-proyecto{
+    background-color: #0a5c5a;
+}
+
+.btn-proyecto a{
+    text-decoration: none;
+    color: white;
+}
+
+.card-title{
+   color:#058789;
+}
+
+#contacto{
+    background-color: #b380cc;
+    color: #3b3b3b;
+}
+
+#contacto p{
+    color:#81d7cd;
+}
+
+footer li a i{
+    color:#5b1023;
+}
+
+
