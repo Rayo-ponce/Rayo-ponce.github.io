@@ -21,9 +21,9 @@ ______
 
   
 ### Vista Previa
-![Proyecto](/assets/Vista-Pre1.PNG)
-![Proyecto](/assets/Vista-Pre2.PNG)
-![Proyecto](assets/Vista-Pre3.PNG)
+![Proyecto](/assets/Vista-Pre1.png)
+![Proyecto](/assets/Vista-Pre2.png)
+![Proyecto](/assets/Vista-Pre3.png)
 
 ### *Espero puedas contactarte conmigo*
 *Correo*
