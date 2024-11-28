@@ -21,11 +21,11 @@ ______
 
   
 ### Vista Previa
-![Proyecto](/assets/portafolio1Captura.PNG)
-![Proyecto](/assets/Portafolio2Captura.PNG)
-![Proyecto](assets/portafio3Captura.PNG)
+![Proyecto](/assets/Vista-Pre1.PNG)
+![Proyecto](/assets/Vista-Pre2.PNG)
+![Proyecto](assets/Vista-Pre3.PNG)
 
-### *Espero pronto saber de ti*
+### *Espero puedas contactarte conmigo*
 *Correo*
 [rayoponce2@gmail.com](mailto:rayoponce2@gmail.com)
 
